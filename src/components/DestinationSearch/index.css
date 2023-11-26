@@ -1,0 +1,10 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+.card-2 {
+  text-align: center;
+}
